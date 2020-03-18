@@ -26,7 +26,7 @@ public class GNFS_excercise_1 {
         System.out.println(min + " => 2^" + n );
         System.out.println(W + " => exp(1.92*b^1/3*(ln(b))^2/3)");
         System.out.println("Searched b is: " + b);
-        System.out.println("------------------------------------------------------");
+        System.out.println("--------------------------------------------------");
         System.out.println();
 
         return b;
