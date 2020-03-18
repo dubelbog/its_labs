@@ -1,3 +1,4 @@
+
 public class GNFS_excercise_1 {
 
     public static void main(String[] args) {
